@@ -16,5 +16,6 @@ def p1_has_cycle(sets):
             4 -1  1  0  0  0  0
         The size of the matrix is (5,6)
     '''
+    print(sets)
     return False
 
